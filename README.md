@@ -14,6 +14,6 @@ LightGBM.ipynb：LightGBM模型
 
 XgBoost模型：XgBoost.ipynb
 
-LightGBM+XgBoost模型相结合的数据处理和训练代码
+LGBM+XGB.ipynb：LightGBM+XgBoost模型相结合的数据处理和训练代码
 
 
